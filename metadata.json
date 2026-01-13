@@ -1,0 +1,7 @@
+{
+  "name": "Jana - Your Emotional Companion",
+  "description": "A warm, emotionally intelligent AI friend designed to listen, support, and help you navigate your feelings with empathy and care.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
